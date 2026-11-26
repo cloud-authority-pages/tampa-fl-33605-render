@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tampa-fl-33605.onrender.com/sitemap.xml
+Sitemap: https://tampa-fl-33605.onrender.com/bed-bug-exterminator-tampa/sitemap.xml
