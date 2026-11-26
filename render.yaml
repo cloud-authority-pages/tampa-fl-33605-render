@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: tampa-fl-33605
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
